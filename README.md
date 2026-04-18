@@ -146,6 +146,3 @@ MN Mohamed
 
 ---
 
-## About
-
-Machine learning-based early churn prediction and customer segmentation model for telecom industry with business-focused insights.
