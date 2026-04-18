@@ -137,7 +137,8 @@ Future improvements:
 Chamali Abeysekara  
 BSc in Applied Data Science Communication  
 
-Team Members / Contributors: 
+Team Members / Contributors:
+
 RL Hewanayaka  
 MZM Hussein  
 MN Mohamed 
